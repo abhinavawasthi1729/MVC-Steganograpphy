@@ -1,0 +1,1 @@
+An interesting web application was created to implement Steganography through the Least Significant Bit method. Later, simple Caesar Cipher and Morse Code tools were added to gain a better understanding of MVC. 
